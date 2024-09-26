@@ -40,5 +40,15 @@ Every submitted exercise will be graded based on the rubric and will be given a 
 
 
 
+# OutPut - Screens
 
+# Images Grid Screen
+<img width="487" alt="Screenshot 2024-09-27 at 12 05 57 AM" src="https://github.com/user-attachments/assets/84d60921-3943-4a5c-9c98-4fdb261f4c7f">
+<img width="487" alt="Screenshot 2024-09-27 at 12 06 13 AM" src="https://github.com/user-attachments/assets/023820fa-4c84-4b9d-93db-05b064980566">
+
+# Image Detail Screen
+<img width="487" alt="Screenshot 2024-09-27 at 12 06 04 AM" src="https://github.com/user-attachments/assets/5b0d704e-d2df-470e-be80-ff72972a22f2">
+
+# Link
+https://youtube.com/shorts/OquE4j7VJBI?si=XVrKPy1lf6IXQ_Gf
 
